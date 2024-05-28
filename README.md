@@ -12,7 +12,7 @@ Yes! However it is a lot slower, and it's easier to do work that involves copyin
 
 3. What does this change about how you work?
 
-It means that I am slower than I was to respond in text, and that it's more laborious to do lengthy explanations in text, switch applications quickly and frequently,  or use certain applications that do not have good accessibility features. It also means that it is more difficult for me to control my computer comfortably on voice calls, since other people's voices also would control the software that I usually  used to navigate.
+It means that I am slower than I was to respond in text, and that it's more laborious to do lengthy explanations in text, switch applications quickly and frequently,  or use certain applications that do not have good accessibility features. It also means that it is more difficult for me to control my computer comfortably on voice calls, since other people's voices also would control the software that I usually  used to navigate. Additionally, my typed messages are more likely to contain typos and words that are spoken homophones may occasionally be incorrect (eg no and know)
 
 4. How can I make life a little easier for you while we work together?
 
